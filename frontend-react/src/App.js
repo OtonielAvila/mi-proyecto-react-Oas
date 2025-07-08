@@ -12,8 +12,8 @@ function App() {
 
   return (
     <div>
-      <h1>Frontend en React</h1>
-      <p>Mensaje del backend: {mensaje}</p>
+      <h1>Curso con AWS & Github</h1>
+      <p>Saludos, nuevos cambios {mensaje}</p>
     </div>
   );
 }
